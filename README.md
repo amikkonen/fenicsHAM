@@ -16,7 +16,7 @@ or the more general method with tablulated values and interpolation. The interpo
 By default, the correlation form is used. You can change this by commenting/uncommenting the two lines.
 
     case.material_properties_equations()
-#    case.material_properties_interpolation()
+    case.material_properties_interpolation()
 
 If you find the bug, please let me know! I have started using OpenFOAM for solving these kind of problems but it would be nice to fix this some day. 
 
